@@ -8,7 +8,7 @@ remappings = [
 
 # RPC endpoints
 [rpc_endpoints]
-sepolia = "https://eth-sepolia.g.alchemy.com/v2/${ALCHEMY_API_KEY}"
+sepolia = "https://ethereum-sepolia-rpc.publicnode.com"
 
 # Etherscan API key for contract verification
 [etherscan]
